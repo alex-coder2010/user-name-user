@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
-- 🧠 I know: Javascript, HTML, CSS, React (not everything), and I vaguely know some C++, together with Unreal Engine landscaping knowledge
-- 👀 I’m interested in front-end and back-end development
-- 🌱 I’m currently learning html/css/javascript/react
+- 🧠 I know: Javascript, HTML, CSS, Tailwind, React (not everything), and I vaguely know some C++, together with Unreal Engine 5 landscaping knowledge
+- 👀 I’m interested in front-end and back-end development, and I have a hobby of creating lkandscapes in Unreal Engine 5
+- 🌱 I’m currently learning HTML / CSS / Javascript / React / Electron / Tailwind
 - ⌚ I'm looking forward to learning back-end development
 - 💞️ I’m looking to collaborate on different projects, just hit me up with an e-mail if you want me to be part of one
 - 📫 How to reach me alex10.zambaiti@gmail.com
